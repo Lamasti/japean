@@ -1,0 +1,72 @@
+<div id="product-details" class="clearfix">
+
+
+
+{block name='product_brand'}
+{if $iqitTheme.pp_man_logo == 'tab'}
+        {if isset($product_manufacturer->id)}
+        <meta itemprop="brand" content="{$product_manufacturer->name}">
+        <div class="product-manufacturer {if isset($manufacturer_image_url)} float-right{/if}">
+            {if isset($manufacturer_image_url)}
+                <label class="label">{l s='Brand' d='Shop.Theme.Catalog'}</label>
+                <a href="{$product_brand_url}">
+                    <img src="{$manufacturer_image_url}" class="img-fluid  manufacturer-logo"/>
+                </a>
+            {else}
+                <label class="label">{l s='Brand' d='Shop.Theme.Catalog'}</label>
+                <span>
+            <a href="{$product_brand_url}">{$product_manufacturer->name}</a>
+          </span>
+            {/if}
+        </div>
+    {/if}
+{/if}
+{/block}
+
+
+
+
+
+
+{block name='product_condition'}
+    {if $product.condition}
+        <div class="product-condition">
+            <label class="label">{l s='Condition' d='Shop.Theme.Catalog'} </label>
+            <link itemprop="itemCondition" href="{$product.condition.schema_url}"/>
+            <span>{$product.condition.label}</span>
+        </div>
+    {/if}
+{/block}
+
+{* if product have specific references, a table will be added to product details section *}
+{block name='product_specific_references'}
+    {if isset($product.specific_references)}
+        <div class="specific-references">
+            {foreach from=$product.specific_references item=reference key=key}
+                <div>
+                    <label class="label">{$key}</label>
+                    <span>{$reference}</span>
+                </div>
+            {/foreach}
+        </div>
+    {/if}
+{/block}
+
+{block name='product_availability_date'}
+    {if $product.availability_date}
+        <div class="product-availability-date">
+            <label>{l s='Availability date:' d='Shop.Theme.Catalog'} </label>
+            <span>{$product.availability_date}</span>
+        </div>
+    {/if}
+{/block}
+
+{block name='product_out_of_stock'}
+    <div class="product-out-of-stock">
+        {hook h='actionProductOutOfStock' product=$product}
+    </div>
+{/block}
+</div>
+
+
+

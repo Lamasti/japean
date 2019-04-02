@@ -1,0 +1,530 @@
+.header-top {background: url(https://dev1.killview.com/img/bg_header_1000.png) no-repeat top left;padding:0px;}
+#index .badge_pourcent {display:none;}
+#header .col-header-menu {position: relative;
+    top: 27px;}
+#cbp-hrmenu-tab-3 .nav-link {padding:0px;}
+#cbp-hrmenu-tab-3 .cbp-tab-title img {width: 100%;
+    min-height: 49px;}
+#cbp-hrmenu-tab-2 .nav-link {padding:0px;}
+#cbp-hrmenu-tab-2 .cbp-tab-title img {width: 100%;
+    min-height: 49px;}
+#iqitmegamenu-horizontal {background:transparent;}
+#wrapper {    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    -moz-box-shadow: inset 0 -1px 2px #000000;
+    -webkit-box-shadow: inset 0 -1px 2px #000000;
+    box-shadow: inset 0px -1px 2px #000000;}
+#footer {margin-top: 20px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    -moz-box-shadow: inset 0 -1px 2px #000000;
+    -webkit-box-shadow: inset 0 -1px 2px #000000;
+    box-shadow: inset 0px 1px 2px #000000;}
+#header .header-nav {padding: 0;color: #fff;
+    background: transparent;position: absolute;
+        width: 100%;}
+#header .header-nav a {color: #fff;
+    font-size: 10.8px;
+   
+    text-transform: uppercase;
+    font-family: Arial,Helvetica,Sans-Serif;}
+#header .header-nav a:hover {color:#fff;}
+.product-features>dl.data-sheet .name:nth-child(2) {display:none;}
+#category .subcategory-image a img {max-width: 82px;}
+#category .subcategory-image {padding: 0px;
+    border: none;}
+#category .product-list-subcategories .subcategory-name {color: #5d717e;
+    font-size: 11px;
+    font-family: Arial,Helvetica,Sans-Serif;
+    text-decoration: underline;}
+#category .product-list-subcategories .subcategory-name:hover {
+    text-decoration: none;}
+.status_text {color: #111;font-weight:bold;}
+.block-links-inline ul>li:after {content: " ";
+    display: inline-block;
+    vertical-align: middle;
+    height: 10px;
+    width: 2px;
+    margin-left: .4rem;
+    margin-right: .4rem;
+    background-color: currentColor;
+    opacity: .8;}
+#header_lien1 {list-style:none;display: inline-block;
+}
+#header_lien2 {list-style:none;display: inline-block;}
+.text-right {padding: 0;}
+
+.header-nav .justify-content-between {display:block!important;}
+.home_red_link {background: url(https://www.japean.com/themes/japean/img/fleche_right_red.png) 0 50% no-repeat;padding-left:15px;padding-bottom: 8px;
+    border-bottom: 1px solid #ccc;}
+.home_red_link .elementor-widget-container {position: relative;
+    top: 4px;}
+	
+.home_red_link .elementor-widget-container a:hover {
+	text-decoration:underline;
+	margin-bottom: 0px;
+    position: relative;
+    top: 4px;
+    color: #a90705;
+    font-size: 14px;
+    top: 0px;}
+
+	.home_red_link .elementor-widget-container a:link,.home_red_link .elementor-widget-container a:visited,.home_red_link .elementor-widget-container a:active {
+	text-decoration:none;
+	margin-bottom: 0px;
+    position: relative;
+    top: 4px;
+    color: #a90705;
+    font-size: 14px;
+    top: 0px;}
+	
+.home_red_link1 {background: url(https://www.japean.com/themes/japean/img/fleche_right_red.png) 0 50% no-repeat;padding-left:15px;}
+.elementor-column-wrap {padding:0px!important;}
+.col-header-right {position:relative;top:26px;}
+.fa-shopping-bag:before, .fa-user:before, .fa-search:before {color:#353535;}
+.breadcrumb {margin-top:5px!important;padding-top:0px!important;border-bottom: solid #cacaca 1px;padding-bottom:5px!important;}
+.breadcrumb ol li a  {font-size: 12px;
+    color: #ac0404;
+    font-weight: bold;
+    padding-left: 12px;
+    background: url(https://www.japean.com/themes/japean/img/bread_sep.png) 0 50% no-repeat;}
+.breadcrumb ol li a span:hover {text-decoration:underline;}
+.breadcrumb ol li a span {font-size: 12px;
+    color: #ac0404;}
+#wrapper .breadcrumb li:after {display:none;}
+.page-cms .page-title {display:none;}
+.product_header_container {background-color: #e2e2e2;
+    height: auto;
+    margin: 0px 0px 10px 0px;
+    padding: 0;}
+#product #content-wrapper .product_header_container .page-title {width: 70%;
+    font-size: 14px;
+    color: #1f1b1a;
+    padding: 0px 0px 0px 5px;
+    display: inline-block;
+    margin: 0;line-height:30px;}
+#product #content-wrapper .product_header_container .page-title p {margin:0}
+#product .product_header_container #product-availability {display:none;}
+#product .product-prices {    text-align: right;
+    position: relative;
+    display: inline-block;
+    width: 29%;
+    padding-right: 5px;
+    top: 4px;}
+.reassurance_cart ul {font-size:11px;text-align:center;}
+#product .no_dispo_text {color: #da0f00;
+    font-weight: normal;}
+#product .no_dispo {font-family: Arial,Helvetica,Sans-Serif;font-size:13.2px;color: #201c1b;margin-top: 30px;}
+#product .tax-shipping-delivery-label {display:none;}
+#product .bootstrap-touchspin .input-group-btn-vertical {display:none!important;}
+#product .product_header_container .product-price {font-size:25px;}
+#product .product-quantity .qty div {height: 25px;
+    padding: 0px 6px;
+    border: 1px solid #bdc2c9;
+    width: 57%;
+    float: right;
+    position: relative;
+    top: -5px;}
+#product .product-quantities {color:#111;    position: relative;
+    top: -19px;}
+#product .product-quantity .qty {width: 140px;
+    position: relative;
+    top: 10px;}
+#product .btn_cart1 {width: 50%;
+    float: right;
+    padding-right: 10%;}
+#product .btn_cart1 .add {text-align:right;}
+#product .btn_cart1 .add .btn-primary {    background: url(https://www.japean.com/themes/japean/img/add_to_cart.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    max-width: 164px;
+    min-height: 56px;}
+#product .btn_cart1 .add .btn-primary .fa {display:none;}
+#product .product-quantity .qty div #quantity_wanted {border: none;
+    padding: 0;}
+#product .product-additional-info {border:none;}
+#product .title_qty {display: inline-block;
+    width: 40%;
+    color: #111;
+    font-weight: 700;}
+.under_product_title {display:block;margin-top: 15px;}
+.social_share_product{display: none;
+    width: 35%;}
+.product-variants .product-variants-item .form-control-label {display: inline-block;
+    color: #111;}
+.product-variants .product-variants-item ul {display: inline-block;
+    position: relative;
+    bottom: -16px;}
+.product-variants .custom-select2 .form-control-select {height: 25px!important;
+    padding: 0px 6px;
+    border: 1px solid #bdc2c9;}
+.custom-select2:after {
+    color: #111;
+}
+#footer-copyrights {-moz-box-shadow: inset 0px -1px 2px #000000;
+    -webkit-box-shadow: inset 0px -1px 2px #000000;
+    box-shadow: inset 0px -1px 2px #000000;}
+.copyright-txt {text-align: center;
+    font-size: 11px;
+    color: #555;}
+.copyright-txt p {margin:0;}
+.product-miniature a:link:not(.nav-link):not(.btn) {font-size: 11px;
+    font-weight: bold;}
+.products-grid .product-miniature-default .product-title {line-height:11px;text-align:left;}
+.products-grid .product-miniature-layout-1 .product-price-and-shipping {width: 30%;
+    float:right;;text-align:right;}
+.products-grid .product-miniature-layout-1 .products-variants {
+    width: 68%;
+    float:left;
+}
+.product-information .rte-content {color: #201c1b;
+    font-size: 1.1em;}
+.products.row > .col, .products.row > [class*="col-"] {
+    padding: 10px 10px;
+}
+.product-miniature-grid .product-availability {    position: relative;
+    opacity: 1!important;
+    left: 0;
+    transform: none!important;
+    bottom: 0;
+    transition: none;
+    text-align: left;
+    backface-visibility: visible;}
+#category main {overflow:visible;}
+#category .product-miniature-default .product-thumbnail img:hover {transform:scale(1.5,1.5);
+	transform-origin:0 0;z-index:100;position:absolute;}
+.products-selection .view-switcher a,.products-selection .view-switcher a {display:none;}
+.product-unavailable {background: none;
+    padding: 0;
+    color: #ad1719;
+    font-size: 11px;
+    font-family: Arial,Helvetica,Sans-Serif;
+    font-weight: 100;}
+.products-sort-nb-dropdown .dropdown-menu {left: -78px;
+    top: 21px;
+    position: absolute;}
+#index .products-grid .product-miniature-layout-1 .product-price-and-shipping {width:100%}
+#index .products-grid .product-miniature-layout-1 .product-description {padding:10px 10px 0px 10px;}
+#index .products-grid .product-miniature-layout-1 .products-variants {position:relative;top:-20px;}
+#index .slick-dots {display:none!important;}
+#index .slick-dotted.slick-slider {margin-bottom:0px;}
+.product-features>dl.data-sheet .name {color: #1d1c1a;font-size:13.2px;font-weight:700;}
+.product-features>dl.data-sheet .value {color: #1d1c1a;font-size:13.2px;font-weight:100;}
+.col-product-info .product-reference .label {color: #1d1c1a;font-size:13.2px;font-weight:700;}
+.col-product-info .product-reference .sku {color: #1d1c1a;font-size:13.2px;font-weight:100;}
+.product-miniature .thumbnail-container .product-thumbnail-second {z-index:3;}
+.products-grid .product-miniature-layout-1 .products-variants .variant-links{text-align:left;}
+.product-miniature-grid .product-price {font-size: 12px;
+    font-weight: bold;}
+.badge_pourcent {position: absolute;
+    top: 170px;
+    right: 0;
+    width: 54px;
+    height: 54px;
+    background: url(https://www.japean.com/themes/japean/css/../img/coin.png) top left no-repeat;}
+#desktop-header-container .col-header-menu {max-width: 45%;}
+#desktop-header-container .col-header-right {min-width: 45%;}
+#desktop-header-container #header-user-btn {position: relative;
+    top: 10px;}
+#desktop-header-container #ps-shoppingcart-wrapper {position: relative;
+    top: 8px;}
+#index .product-miniature:hover, #product .product-miniature:hover {box-shadow: none;}
+.wrap_search_widget #input_search {display: inline-block;
+    font-size: 12px;
+    font-family: Arial,Helvetica,Sans-Serif;
+    min-height: 26px;
+    border: none;
+    padding: 5px;
+    border-left: 2px solid #888;
+    border-top: 1px solid #777;
+    border-bottom: 1px solid #999;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;}
+.wrap_search_widget button {background: url(https://www.japean.com/themes/japean/img/bt_search.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 15%;
+    height: 26px;
+    padding: 0px;
+	cursor:pointer;
+    display: inline-block;
+    background-color: #fff;
+    position: relative;
+    top: 8px;
+    right: 3px;
+    border-right: 2px solid #888;
+    border-top: 1px solid #777;
+    border-bottom: 1px solid #999;
+    border-left: 0px solid #999;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;}
+.wrap_search_widget #input_search:focus {box-shadow:0 0 0px rgba(0,0,0,0.4);}
+#checkout .bestkit_available_sizes {display:none;}
+#blockcart-notification {background:#fff;color: #201c1b;}
+#blockcart-content a:not(.btn):not(.nav-link) {font-weight: 700;
+    color: #353535;}
+#blockcart-content .price_cart {color: #a90705;}
+#blockcart-content .product-line-info, #blockcart-content .text-muted {color: #353535!important;}
+#product #ppbContainer1 .badge_pourcent {
+    top: 93px;
+    width: 44px;
+    height: 44px;display:none;}
+#product .discount-percentage {display:none;}
+#category #content-wrapper .page-title {display:none;}
+#category .products-selection {border:none;}
+#category category-description-top {font-family: Arial,Helvetica,Sans-Serif;
+    font-size: 13px;
+    color: #5d717e;}
+#product #ppbContainer1 {margin-bottom:25px;}
+#product #ppbContainer1 .badge_pourcent span {font-size: 10px;}
+.badge_pourcent span {background: none;
+    position: absolute;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    right: 2px;
+    bottom: 2px;}
+#product .home_red_link h1 {margin-bottom: 0px;
+    position: relative;
+    top: 4px;
+    color: #a90705;
+    font-size: 14px;}
+#product #ppbContainer1 .product-miniature-right {width: 100%;
+    text-align: center;}
+#footer-container-main {padding-top:5px;}
+.block-iqitlinksmanager img {margin-bottom:10px;margin-left: auto;
+    margin-right: auto;
+    display: block;}
+.block-iqitcontactpage img {margin-top:10px;margin-left: auto;
+    display: block;
+    margin-right: auto;}
+.contact-rich .part {text-align:center;}
+.contact-rich .part .data {font-size:16px;font-weight:bold;color:#555;line-height: 18px;}
+.ouverture {font-size:11px;color:#555;text-align:center;}
+.informations_block img {margin-top:5px;}
+.informations_block ul {padding-left: 30px;padding-top: 5px;}
+.informations_block ul li {line-height: 24px;}
+.informations_block ul li a {font-size:12px;text-transform:uppercase;color:#555!important;}
+.block-social-links .block-title {margin-bottom: 0!important;}
+.block-newsletter  .block-title {margin: 0!important;
+	padding-bottom: 7px!important;}
+.block-newsletter img {margin-top:5px;}
+.block-social-links .block-title span, .block-newsletter .block-title span {font-size: 12px;
+    color: #353535;
+    font-weight: 100;}
+#footer .block-title:after {display:none;}
+.social-links .facebook {width:50%;}
+#footer .ps-emailsubscription-block .newsletter-input-group {border: none;
+    box-shadow: -1px 1px 1px 0 #888 inset, 1px -1px 0px 0 #888 inset;border-radius:7px;}
+.block-iqitlinksmanager-1 {margin-right: 0px;background: url(https://www.japean.com/modules/toolsmenu/img/footer_sep.png) no-repeat top right;
+    padding-right: 1px;}
+.block-iqitcontactpage, .informations_block {background: url(https://www.japean.com/modules/toolsmenu/img/footer_sep.png) no-repeat top right;}
+#footer .ps-emailsubscription-block .newsletter-input-group .btn-subscribe {background-image: url(https://www.japean.com/themes/japean/img/bt_ok_newsletter.png);
+    background-repeat: no-repeat;
+    background-position: 0px 5px;
+    min-width: 28px;
+    margin-right: 3px;}
+#footer .ps-emailsubscription-block .newsletter-input-group .btn-subscribe:hover {background-image: url(https://www.japean.com/themes/japean/img/bt_ok_newsletter.png);background-color:transparent;}
+#footer-container-main {padding-bottom:5px;}
+#footer .block-links ul>li a:before {display:none;}
+#footer .block-links ul>li a {line-height: 34px;
+    font-size: 12px;
+    font-weight: normal;
+	text-transform: uppercase;color: #555555!important;}
+#footer .block-links ul>li {margin-bottom:0;}
+#footer .block-links ul li:first-child {background-image: url(https://www.japean.com/modules/toolsmenu/img/m/49.png);
+    background-repeat: no-repeat;
+    padding-left: 30px;}
+#footer .block-links ul li:first-child {background-image: url(https://www.japean.com/modules/toolsmenu/img/m/49.png);
+    background-repeat: no-repeat;
+    padding-left: 30px;}
+#footer .block-links ul li:nth-child(2) {background-image: url(https://www.japean.com/modules/toolsmenu/img/m/283.png);
+    background-repeat: no-repeat;
+    padding-left: 30px;}
+#footer .block-links ul li:nth-child(3) {background-image: url(https://www.japean.com/modules/toolsmenu/img/m/48.png);
+    background-repeat: no-repeat;
+    padding-left: 30px;}
+#footer .block-links ul li:nth-child(4) {background-image: url(https://www.japean.com/modules/toolsmenu/img/m/47.png);
+    background-repeat: no-repeat;
+    padding-left: 30px;}
+.btn-primary, .btn-primary.disabled, .btn-primary:disabled {background:#353535;}
+.cbp-hrmenu .cbp-show {
+    min-width: 971px;
+    left: -159px;
+}
+#cbp-hrmenu-tab-3 .cbp-hrsub .cbp-hrsub-inner {padding:0px;}
+#cbp-hrmenu-tab-3 .menu-element-id-2 {margin-top: 0px;padding: 0px 0px 0px 15px;}
+#cbp-hrmenu-tab-3 .menu-element-id-3 {margin-top: 0px;padding: 0px 0px 0px 0px;}
+#cbp-hrmenu-tab-3 .menu-element-id-4 {margin-top: 0px;padding: 0px 15px 0px 0px;}
+#cbp-hrmenu-tab-3 .menu-element-id-2 .cbp-menu-column-inner, #cbp-hrmenu-tab-3 .menu-element-id-3 .cbp-menu-column-inner, #cbp-hrmenu-tab-3 .menu-element-id-4 .cbp-menu-column-inner {padding: 10px;
+    background: #999;min-height:34px;}
+#cbp-hrmenu-tab-3 .menu-element-id-2 .cbp-menu-column-inner a, #cbp-hrmenu-tab-3 .menu-element-id-3 .cbp-menu-column-inner a, #cbp-hrmenu-tab-3 .menu-element-id-4 .cbp-menu-column-inner a {margin-bottom: 0px;}
+#cbp-hrmenu-tab-3 .menu-element-id-9 a:link, #cbp-hrmenu-tab-3 .menu-element-id-10 a:link, #cbp-hrmenu-tab-3 .menu-element-id-11 a:link, #cbp-hrmenu-tab-3 .menu-element-id-12 a:link {padding-left: 27px;}
+#cbp-hrmenu-tab-3 .menu-element-id-9,#cbp-hrmenu-tab-3 .menu-element-id-10,#cbp-hrmenu-tab-3 .menu-element-id-11,#cbp-hrmenu-tab-3 .menu-element-id-12 {margin-top:5px!important;}
+#cbp-hrmenu-tab-3 .menu-element-id-17,#cbp-hrmenu-tab-3 .menu-element-id-18,#cbp-hrmenu-tab-3 .menu-element-id-19 {margin-top:10px!important}
+#cbp-hrmenu-tab-3 .menu-element-id-5 .cbp-menu-element .cbp-menu-column-inner a img {    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 90%;}
+
+
+#cbp-hrmenu-tab-2 .cbp-hrsub .cbp-hrsub-inner {padding:0px;}
+#cbp-hrmenu-tab-2 .menu-element-id-2 {margin-top: 0px;padding: 0px 0px 0px 15px;}
+#cbp-hrmenu-tab-2 .menu-element-id-3 {margin-top: 0px;padding: 0px 0px 0px 0px;}
+#cbp-hrmenu-tab-2 .menu-element-id-4 {margin-top: 0px;padding: 0px 15px 0px 0px;}
+#cbp-hrmenu-tab-2 .menu-element-id-2 .cbp-menu-column-inner, #cbp-hrmenu-tab-2 .menu-element-id-3 .cbp-menu-column-inner, #cbp-hrmenu-tab-2 .menu-element-id-4 .cbp-menu-column-inner {padding: 10px;
+    background: #999;min-height:34px;}
+#cbp-hrmenu-tab-2 .menu-element-id-2 .cbp-menu-column-inner a, #cbp-hrmenu-tab-2 .menu-element-id-3 .cbp-menu-column-inner a, #cbp-hrmenu-tab-2 .menu-element-id-4 .cbp-menu-column-inner a {margin-bottom: 0px;}
+#cbp-hrmenu-tab-2 .menu-element-id-5 a:link, #cbp-hrmenu-tab-2 .menu-element-id-7 a:link, #cbp-hrmenu-tab-2 .menu-element-id-8 a:link, #cbp-hrmenu-tab-2 .menu-element-id-6 a:link {padding-left: 27px;}
+#cbp-hrmenu-tab-2 .menu-element-id-5,#cbp-hrmenu-tab-2 .menu-element-id-6,#cbp-hrmenu-tab-2 .menu-element-id-7,#cbp-hrmenu-tab-2 .menu-element-id-8 {margin-top:5px!important;}
+#cbp-hrmenu-tab-2 .menu-element-id-17,#cbp-hrmenu-tab-2 .menu-element-id-18,#cbp-hrmenu-tab-2 .menu-element-id-16 {margin-top:10px!important}
+#cbp-hrmenu-tab-2 .menu-element-id-9 .cbp-menu-element .cbp-menu-column-inner a img {    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 90%;}
+
+#authentication .page-content {border: 1px solid #d0d3d8;
+    background-color: #E2E2E2;}
+#authentication #login-form label {color: #5d717e;}
+
+#iqitmegamenu-mobile > li > a, #iqitmegamenu-mobile li ul a {text-align:center;}
+#index .slick-initialized .slick-slide {margin:10px;}
+#product .title_related {padding: 5px 0px 0px 0px;
+    text-align: center;
+    width: 100%;}
+#product #ppbContainer1 .js-product-miniature-wrapper{width:12%;display:inline-block;padding:0px 5px;}
+.bestkit_attr_content .rem_vir:last-child {display:none;}
+#product .product-variants .custom-select2 .form-control-select {margin-right: 15px;}
+@media (min-width: 992px) {
+#category .left-column {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+	#category #left-column {display:none;}
+}
+@media screen and (min-width: 769px) {
+.header-nav .left-nav {    width: 37%;
+    display: inline-block;
+    padding: 0;}	
+	.header-nav .block-iqitlinksmanager {    max-width: 250px;
+    margin-right: -43px;
+    margin-left: auto;
+    display: block!important;top: 10px;position:relative;}
+	.header-nav .right-nav {padding: 0;
+    width: 62%;
+    display: inline-block;}
+}
+@media screen and (min-width: 768px) and (max-width: 768px) {
+.block-iqitcontactpage {display:none;}
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	
+ #mobile-header .col-mobile-logo {
+    padding: 0;}
+.header-nav .left-nav {
+    width: 78%;
+    display: inline-block;
+    padding: 0;
+    margin-left: 22%;
+}
+	.header-nav .right-nav {
+    padding: 0px;
+    width: 78%;
+    display: inline-block;
+    margin-left: 22%;
+}
+	.header-nav .block-iqitlinksmanager {
+    max-width: 210px;
+    margin-right: 0;
+    margin-left: 0;
+    display: block!important;
+    top: 95px;
+    position: relative;
+}
+	#header_lien1 {width: 50%;
+    top: -9px;
+    position: relative;}
+	#header_lien2 {width: 49%;    top: -9px;
+    position: relative;}
+	.mobile-main-bar .col-mobile-btn-search,.mobile-main-bar .col-mobile-btn-account,.mobile-main-bar .col-mobile-btn-cart,.mobile-main-bar .col-mobile-menu-dropdown {margin-top: 70px;}
+	#mobile-header .m-nav-btn>i:before {color: #fff;}
+	#iqitmegamenu-mobile {background: #111;}
+	#header_lien1 a img {position: relative;
+    left: -26%;}
+	#header_lien2 a img {position: relative;
+    left: -22%;}
+	#mobile-header .col-mobile-btn {display:inline-block;padding: 0px 10px;}
+	
+}
+@media screen and (max-width: 767px) {
+	#footer .informations_block {background: none;
+    width: 100%;margin-top: 8px;} 
+	#footer .informations_block ul {padding: 0px;
+    text-align: center;opacity: 1;
+    visibility: visible;
+    height: auto;
+    max-width: 204px;
+    margin-left: auto;
+    margin-right: auto;}
+	#footer .block-newsletter {margin-top: 10px;}
+	#footer .informations_block img, #footer .block-newsletter img {margin-left: auto;
+    margin-right: auto;
+    display: block;}
+	#footer .block-toggle > .block-content {opacity: 1;
+    visibility: visible;
+    height: auto;max-width: 204px;
+    margin-left: auto;
+    margin-right: auto;}
+	#mobile-header .m-nav-btn>i:before {color: #fff;}
+	#wrapper .breadcrumb {display:none;}
+	.block_add_mobile {    display: block;
+    width: 100%;
+    max-width: 246px;
+    margin-left: auto;
+    margin-right: auto;}
+.header-nav .block-iqitlinksmanager ul	{max-width: 246px;
+    margin-left: auto;
+	margin-right: auto;}
+	#mobile-header .m-nav-btn>i {font-size:25px;}
+	#mobile-header .col-mobile-btn {display:inline-block;margin-top:56px;padding: 0px 11px;}
+	#mobile-header .col-mobile-logo {min-width: 100%;
+    display: block;}
+	#mobile-header .col-mobile-logo a img {margin-left: auto;
+    margin-right: auto;
+    display: block;}
+	.header-nav .right-nav {display:none;}
+	.header-nav .block-iqitlinksmanager {max-width:none;    margin-right: 0;
+    margin-left: 0;
+    text-align: center;
+    display: block!important;
+    top: 137px;
+    position: relative;}
+	.header-nav .left-nav {
+    width: 100%;
+    display: inline-block;
+    padding: 0;
+    margin-left: 0;
+}
+}
+
+@media screen and (min-width: 463px) and (min-width: 767px) {
+	.product_header_container .page-title p {
+    line-height: 30px;
+		
+}
+	#search .badge_pourcent {display:none;}
+	#product .product-prices {
+    top: 4px;
+}
+}
+
+@media screen and (max-width: 462px) {
+	#search .badge_pourcent {display:none;}
+	#product .product-prices {top: -6px;}
+	#product #content-wrapper .product_header_container .page-title p {line-height:20px;}
+	.home_red_link1 {    background-position: 0% 8%;}
+	.home_red_link1 .elementor-widget-container h2 {line-height:22px;}
+	.home_banner_left,.home_banner_center,.home_banner_right {margin-bottom:15px;}
+}
+
